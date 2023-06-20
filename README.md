@@ -92,4 +92,4 @@ vendor/bin/phpunit Tests/PostTest.php
 - Please note that you need PHP 8.0 or higher to execute the script
 - Please create a database name/user and exucute "db.sql" first
 - To change the MySQL connection information, please edit /Engine/Config.php
-- Admin login (email/password) is: test@test.com / pwd123
+- Admin login (email/password) is: admin@gmail.com / pwd123
