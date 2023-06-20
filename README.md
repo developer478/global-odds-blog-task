@@ -2,7 +2,9 @@
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
-Running App Demo Video [Link]([https://docs.docker.com/engine/install/](https://www.loom.com/share/e0127a4bdd5242a081ca01388bb4bc2e?sid=5ae26a5e-4d74-4bda-9dbd-83cb9263820f))
+### Running App Demo 
+
+Loom Video [Link](https://docs.docker.com/engine/install/](https://www.loom.com/share/e0127a4bdd5242a081ca01388bb4bc2e?sid=5ae26a5e-4d74-4bda-9dbd-83cb9263820f)
 
 
 ## Description
